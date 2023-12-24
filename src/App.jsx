@@ -32,6 +32,7 @@ const App = () => {
         </div>
       </div>
     </BrowserRouter>
+    // had to write something just to maintain streak  
   );
 };
 
