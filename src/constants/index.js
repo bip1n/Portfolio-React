@@ -204,16 +204,16 @@ const projects = [
       "Student MIS is a web based application designed to streamline and centralize student data and administrative tasks in educational institutions. It enables schools to track student enrollment, grades, and other relevant information, while providing a user-friendly interface for administrators to  update student records, teachers and parents to access informations.",
     tags: [
       {
-        name: "javascript",
-        color: "blue-text-gradient",
+        name: "handlebars",
+        color: "pink-text-gradient",
       },
       {
-        name: "mysql",
+        name: "node.js",
         color: "green-text-gradient",
       },
       {
-        name: "bootstrap",
-        color: "pink-text-gradient",
+        name: "mysql",
+        color: "blue-text-gradient",
       },
     ],
     image: carrent,
