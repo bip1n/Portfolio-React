@@ -48,6 +48,7 @@ const About = () => {
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
        I'm Bip1n. I'm currently studying Software Engineering at NCIT, Lalitpur. I'm interested in CyberSecurity as well as Web Development. Beside these I'm also interested in photography, editing and content writing.
+      Find me on:
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
